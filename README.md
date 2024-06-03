@@ -20,7 +20,7 @@ For a step-by-step YouTube video walkthrough, watch this! [Deploying Chainlit ap
 
 ![Beyond ChatGPT: Build Your First LLM Application](https://github.com/AI-Maker-Space/Beyond-ChatGPT/assets/48775140/cb7a74b8-28af-4d12-a008-8f5a51d47b4c)
 
-## 🤖 Your First LLM App
+## 🤖 Your First LLM App!!!! YES!!!!
 
 > If you need an introduction to `git`, or information on how to set up API keys for the tools we'll be using in this repository - check out our [Interactive Dev Environment for LLM Development](https://github.com/AI-Maker-Space/Interactive-Dev-Environment-for-LLM-Development/tree/main) which has everything you'd need to get started in this repository!
 
